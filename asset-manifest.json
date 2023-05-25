@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/getfit/static/css/main.3947a739.css",
-    "main.js": "/getfit/static/js/main.a446ad17.js",
+    "main.css": "/getfit/static/css/main.202edee2.css",
+    "main.js": "/getfit/static/js/main.3948ff9f.js",
     "static/media/header_bg_3.jpg": "/getfit/static/media/header_bg_3.20aac8db63049715cbd1.jpg",
     "static/media/main_header.png": "/getfit/static/media/main_header.cfdd71eb8ee4127d40dd.png",
+    "static/media/header_bg_5.jpg": "/getfit/static/media/header_bg_5.1779114ab5e3f0403a12.jpg",
     "static/media/about2.jpg": "/getfit/static/media/about2.2c97a145dfdda53737eb.jpg",
     "static/media/gallery7.jpg": "/getfit/static/media/gallery7.1631333a1ec83df5f5a1.jpg",
     "static/media/header_bg_1.jpg": "/getfit/static/media/header_bg_1.c365d542fbad9bf595e8.jpg",
@@ -25,6 +26,7 @@
     "static/media/trainer1.jpg": "/getfit/static/media/trainer1.6e000edfecf48b446bcd.jpg",
     "static/media/gallery11.jpg": "/getfit/static/media/gallery11.82f3bb9b8ccfefc7b200.jpg",
     "static/media/gallery5.jpg": "/getfit/static/media/gallery5.18d8f7dce3878f28c0a4.jpg",
+    "static/media/header_bg_4.jpg": "/getfit/static/media/header_bg_4.24af76293b5cb0c35e3b.jpg",
     "static/media/gallery13.jpg": "/getfit/static/media/gallery13.8a812c16e8159cb75529.jpg",
     "static/media/gallery6.jpg": "/getfit/static/media/gallery6.1110d4860ff60d014419.jpg",
     "static/media/trainer5.jpg": "/getfit/static/media/trainer5.6a8eee1279ea02be53c7.jpg",
@@ -33,11 +35,11 @@
     "static/media/trainer6.jpg": "/getfit/static/media/trainer6.d060ff98bdc67ac8ddf3.jpg",
     "static/media/avatar5.jpg": "/getfit/static/media/avatar5.d25e9a28e32aa5201afa.jpg",
     "index.html": "/getfit/index.html",
-    "main.3947a739.css.map": "/getfit/static/css/main.3947a739.css.map",
-    "main.a446ad17.js.map": "/getfit/static/js/main.a446ad17.js.map"
+    "main.202edee2.css.map": "/getfit/static/css/main.202edee2.css.map",
+    "main.3948ff9f.js.map": "/getfit/static/js/main.3948ff9f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3947a739.css",
-    "static/js/main.a446ad17.js"
+    "static/css/main.202edee2.css",
+    "static/js/main.3948ff9f.js"
   ]
 }
